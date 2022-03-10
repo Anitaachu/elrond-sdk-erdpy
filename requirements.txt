@@ -8,7 +8,7 @@ pycryptodomex
 cryptography>=3.2
 prettytable
 types-prettytable
-ledgercomm
+ledgercomm>=1.1.0
 semver
 requests-cache
 
