@@ -9,17 +9,7 @@ Elrond Python Command Line Tools and SDK for interacting with the Elrond Network
 Documentation
 ==============
 
-Documentation available at: elrond-erdpy-sdk.readthedocs.io
-
-
-Distribution
-============
-
-`erdpy-up <https://elrond-erdpy-sdk.readthedocs.io/en/latest/pages/installation.html>`_ and `PyPi <https://pypi.org/project/erdpy/#history>`_
-
-
-Usage
-======
+Documentation available at: https://elrond-erdpy-sdk.readthedocs.io/
 
 Build the documentation by creating a new file file in the ``docs/`` folder contained in this repo. Ensure this file is written in reStructured text. 
 
@@ -31,8 +21,15 @@ Next, add the following setup:
     cd docs/
     make html
 
-Source code 
+Distribution
 ============
+
+`erdpy-up <https://elrond-erdpy-sdk.readthedocs.io/en/latest/pages/installation.html>`_ and `PyPi <https://pypi.org/project/erdpy/#history>`_
+
+
+CLI
+============
+`CLI <https://github.com/ElrondNetwork/elrond-sdk-erdpy/blob/main/erdpy/CLI.md>`_
 
 
 
