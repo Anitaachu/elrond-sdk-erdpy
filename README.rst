@@ -11,15 +11,6 @@ Documentation
 
 Documentation available at: https://elrond-erdpy-sdk.readthedocs.io/
 
-Build the documentation by creating a new file file in the ``docs/`` folder contained in this repo. Ensure this file is written in reStructured text. 
-
-Next, add the following setup: 
-
-.. code-block:: 
-
-    pip install sphinx
-    cd docs/
-    make html
 
 Distribution
 ============
